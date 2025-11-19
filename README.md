@@ -44,7 +44,7 @@ I enjoy building clean UI, scalable backend systems, and real-world impactful ap
 
 ## 🎓 Education  
 🎓 **Guru Nanak Institute of Technology (GNIT)**  
-📘 B.Tech in **Computer Science Engineering (CSR Core)**
+📘 B.Tech in **Computer Science Engineering (CSE Core)**
 
 ---
 
