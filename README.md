@@ -1,5 +1,5 @@
 <h1 align="center">🌟 Hi, I'm <span style="color:#4C8BF5;">Srijit Bhattacharya</span> 👋</h1>
-<h3 align="center">Full-Stack Web Developer | B.Tech CSE (CSR) | GNIT</h3>
+<h3 align="center">Full-Stack Web Developer | B.Tech CSE (CORE) | GNIT</h3>
 
 ---
 
