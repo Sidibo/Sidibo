@@ -1,81 +1,78 @@
-<!-- Header -->
-<h1 align="center">✨ Hey, I'm <span style="color:#00C4FF;">Srijit Bhattacharya</span> 👋</h1>
-<h3 align="center">Full Stack Developer | B.Tech CSE (CSR) | GNIT</h3>
-
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR4YTF2eHlobHR2d214dHRyMzF3ajJ4aGZxNjZ6bTVsdjYwNGwzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
-</p>
+<h1 align="center">🌟 Hi, I'm <span style="color:#4C8BF5;">Srijit Bhattacharya</span> 👋</h1>
+<h3 align="center">Full-Stack Web Developer | B.Tech CSE (CSR) | GNIT</h3>
 
 ---
 
 ## 🚀 About Me  
-🎯 Passionate about **full-stack development, UI/UX, and scalable web apps**  
-🧠 Exploring **Next.js, AI tools, and advanced backend systems**  
-💡 Love making **beautiful + functional interfaces**
+I’m a passionate **full-stack developer** skilled in modern web technologies.  
+I enjoy building clean UI, scalable backend systems, and real-world impactful applications.
 
 ---
 
-## ⚡ Tech Stack (Animated Icons)
+## 🎨 Tech Stack & Skills
 
-### 🖥️ **Frontend**
+### 🖥️ Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=angular" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
 </p>
 
-### ⚙️ **Backend**
+### ⚙️ Backend  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
 </p>
 
-### 🗄️ **Database**
+### 🗄️ Database  
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-### 👨‍💻 **Programming Languages**
+### 👨‍💻 Programming Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ---
 
-## 🎨 Animated Coding Banner  
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNlZzR2YjlhamE2NW9lMm9uNHAwbjR5N3h4bHl6M2ptY2M4ZW51MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZVik7pBtu9dNS/giphy.gif" width="600"/>
-</p>
-
----
-
-## 📊 GitHub Stats (Animated Themes)
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sidibo&show_icons=true&theme=react" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidibo&layout=compact&theme=react" />
-</p>
-
----
-
-## 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sidibo&theme=react" />
-</p>
+## 🎓 Education  
+🎓 **Guru Nanak Institute of Technology (GNIT)**  
+📘 B.Tech in **Computer Science Engineering (CSR Core)**
 
 ---
 
 ## 🌐 Connect With Me  
 <p>
   <a href="https://linkedin.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
   <a href="mailto:youremail@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
 </p>
 
 ---
 
-## 🌀 Fun Animated Footer  
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnY2Zjd0bm5hb2pzeka1Mjk5YXpna3d4c3I4ZmdpYzVmMW5iemtpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlNQ03J5JxX6lva/giphy.gif" width="200"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sidibo&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidibo&layout=compact&theme=tokyonight" />
 </p>
 
-<h3 align="center">✨ Thanks for visiting my animated profile! ✨</h3>
+---
+
+## 🔥 GitHub Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sidibo&theme=tokyonight" />
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile!**
