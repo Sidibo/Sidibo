@@ -68,11 +68,4 @@ I enjoy building clean UI, scalable backend systems, and real-world impactful ap
 
 ---
 
-## 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sidibo&theme=tokyonight" />
-</p>
-
----
-
 ⭐ **Thanks for visiting my profile!**
