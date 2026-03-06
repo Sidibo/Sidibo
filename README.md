@@ -60,12 +60,5 @@ I enjoy building clean UI, scalable backend systems, and real-world impactful ap
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sidibo&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidibo&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ⭐ **Thanks for visiting my profile!**
